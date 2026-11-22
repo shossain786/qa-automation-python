@@ -25,4 +25,4 @@ cd week01-first-test
 pytest -v
 ```
 
-Every test passes on a clean clone. Some folders have a test marked to **show a failure on purpose**; the video explains them. Run those with `pytest -v -m demo_fail`.
+Every test passes on a clean clone.
