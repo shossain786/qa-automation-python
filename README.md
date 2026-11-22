@@ -11,7 +11,7 @@ Every video has its own folder. Clone once, then `cd` into the week you're watch
 ## Setup (once)
 
 ```bash
-git clone https://github.com/<your-username>/qa-automation-python.git
+git clone https://github.com/shossain786/qa-automation-python.git
 cd qa-automation-python
 python3 -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
