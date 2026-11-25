@@ -7,6 +7,7 @@ Every video has its own folder. Clone once, then `cd` into the week you're watch
 |---|---|---|
 | 1 | pytest from scratch: your first automated test in 10 minutes | [`week01-first-test`](week01-first-test) |
 | 2 | pytest fixtures explained with real test examples | [`week02-fixtures`](week02-fixtures) |
+| 3 | Parametrize tests in pytest: stop copy-pasting test cases | [`week03-parametrize`](week03-parametrize) |
 
 ## Setup (once)
 
